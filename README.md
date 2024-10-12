@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi, I'm Petrus 👋
 
+I'm a first year Computer Science student still figuring what to specialize in. As of now my list of skills and projects is really nonexistent, but I'll be sure to start making the list longer in the upcoming years.
+
+Right now I am dabbling in python and have also recently started learning digital fabrication.
 <!--
 **Putk1/Putk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
