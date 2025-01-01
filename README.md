@@ -1,8 +1,18 @@
 # Hi, I'm Petrus 👋
 
-I'm a first year Computer Science student still figuring what to specialize in. As of now my list of skills and projects is really nonexistent, but I'll be sure to start making the list longer in the upcoming years.
+I'm a first year Computer Science student still figuring what to specialize in.
 
-Right now I am dabbling in python and have also recently started learning digital fabrication.
+Skills:
+- Experienced in Python, one project was building a functional minesweeper game
+- Docker containers and their use
+- Basics of digital fabrication
+
+Currently I'm working on:
+- Learning Java
+- Learning more about virtualization
+
+Contact info:
+- Email: petrus.heikkila@outlook.com
 <!--
 **Putk1/Putk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
