@@ -1,10 +1,10 @@
 # Hi, I'm Petrus 👋
 
-I'm a first year Computer Science student still figuring what to specialize in.
+I'm a first year Computer Science student with plans to specialize in AI.
 
 Skills:
 - Experienced in Python, one project was building a functional minesweeper game
-- Docker containers and their use
+- Virtualization, e.g. Docker
 - Basics of digital fabrication
 
 Currently I'm working on:
