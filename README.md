@@ -4,6 +4,7 @@ I'm a first year Computer Science student with plans to specialize in AI.
 
 Skills:
 - Experienced in Python, one project was building a functional minesweeper game
+- UI design
 - Virtualization, e.g. Docker
 - Basics of digital fabrication
 
