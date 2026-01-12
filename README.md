@@ -1,15 +1,15 @@
 # Hi, I'm Petrus 👋
 
-I'm a first year Computer Science student with plans to specialize in AI.
+I'm a second year Computer Science student with plans to specialize in AI.
 
 Skills:
-- Experienced in Python, one project was building a functional minesweeper game
+- Experience in Python, Java, ASM (y86), HTML5, CSS, C and some C++
 - UI design
 - Virtualization, e.g. Docker
 - Basics of digital fabrication
+- Have worked with Jupyter and Git
 
 Currently I'm working on:
-- Learning Java
 - Learning more about virtualization
 
 Contact info:
